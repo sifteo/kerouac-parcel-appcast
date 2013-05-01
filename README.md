@@ -11,7 +11,7 @@ to update when a new version is available.
 
 Install for development:
 
-    $ git clone git+ssh://git@bitbucket.org:sifteo/kerouac-parcel-appcast.git
+    $ git clone git@bitbucket.org:sifteo/kerouac-parcel-appcast.git
     $ cd kerouac-parcel-appcast
     $ npm link
 
