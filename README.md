@@ -2,7 +2,7 @@
 
 This is middleware for [Kerouac](https://github.com/jaredhanson/kerouac) that
 generates [Sparkle](http://sparkle.andymatuschak.org/)-compatible [appcasts](http://connectedflow.com/appcasting/)
-from [Parcel](https://bitbucket.org/sifteo/parcel) package repositories.
+from [Parcel](https://github.com/sifteo/parcel) package repositories.
 
 Applications can poll appcasts to check for the latest version, prompting users
 to update when a new version is available.
