@@ -9,6 +9,8 @@ to update when a new version is available.
 
 ## Install
 
+    $ npm install kerouac-parcel-appcast
+
 Install for development:
 
     $ git clone git@bitbucket.org:sifteo/kerouac-parcel-appcast.git
@@ -34,5 +36,7 @@ as a hash in the third argument.
                                             packageLink: 'http://sifteo.com/download' }));
 
 ## License
+
+[Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0)
 
 Copyright (c) 2013 Sifteo Inc. <[http://www.sifteo.com/](http://www.sifteo.com/)>

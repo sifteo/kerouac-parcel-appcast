@@ -1,16 +1,25 @@
 {
   "name": "kerouac-parcel-appcast",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kerouac middleware that generates appcasts from Parcel package repositories.",
   "keywords": ["appcast"],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org:sifteo/kerouac-parcel-appcast.git"
+    "url": "git://github.com/sifteo/kerouac-parcel-appcast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sifteo/kerouac-parcel-appcast/issues"
   },
   "author": {
     "name": "Jared Hanson",
     "email": "jared@sifteo.com"
   },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://opensource.org/licenses/Apache-2.0"
+    }
+  ],
   "main": "./lib",
   "dependencies": {
     "parcel": "0.0.x",
